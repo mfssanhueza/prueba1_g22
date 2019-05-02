@@ -1,0 +1,14 @@
+.phantom{
+    height: 60px;
+}
+.card{
+    margin-bottom: 10px;
+}
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: rgb(6, 105, 205);
+    padding-top: 10px;
+    font-size: 0.8rem;
+
+}
